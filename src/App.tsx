@@ -328,8 +328,8 @@ export default function App() {
           <p>
             Desarrollado para clases de <strong>Cálculo Integral y Diferencial (Cálculo 1)</strong> • Tema: Aplicaciones de la Derivada.
           </p>
-          <p className="font-mono text-[11px] text-slate-500">
-            Relación de Variables: q(t) = C · v(t) ⇒ i(t) = C · v&apos;(t)
+          <p className="text-slate-500">
+            © 2026 Luis Miguel Guerrero. Reservados todos los derechos.
           </p>
         </div>
       </footer>
