@@ -1,0 +1,6 @@
+{
+  "name": "Derivadas en Circuitos Eléctricos",
+  "description": "Simulación interactiva para clases de Cálculo 1 que visualiza gráficamente la relación derivada entre el voltaje y la corriente en un capacitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
